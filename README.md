@@ -1,6 +1,8 @@
 Grub2Recovery
 =============
 
+## Clonezilla 100% automatizado com GRUB2
+
 Estas configurações foram criadas no intuito de desenvolver um sistema de Backup e Recovery 100% automatizado de uma instalação do Windows 7.
 
 Utiliza-se o Clonezilla (versão debian) para backup e restauração de partições.
